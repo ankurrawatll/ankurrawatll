@@ -89,6 +89,8 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 </p>
 
 ---
+<p> <img src ="https://www.cloudskillsboost.google/public_profiles/957d3416-42f2-4585-aff8-260777924f92/badges/11761959" />
+</p>
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
