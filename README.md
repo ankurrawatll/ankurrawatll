@@ -84,6 +84,21 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
     <img src="https://komarev.com/ghpvc/?username=ankurrawatll&label=Profile%20views&color=0e75b6&style=flat" alt="ankurrawatll" /> 
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ankurrawatll/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ankurrawatll/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ankurrawatll/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
