@@ -2,8 +2,8 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-# 🌟 Hey There! I'm Ankur Rawat 👨‍💻🚀
-
+ <h1>🌟 Hey There! I'm Ankur Rawat 👨‍💻🚀
+</h1> 
 ## 📌 About Me
 ```
 🧠 AI Innovator | 💻 Full-Stack Developer | 🌐 Tech Enthusiast
