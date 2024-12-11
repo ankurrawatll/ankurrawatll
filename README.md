@@ -89,7 +89,11 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 </p>
 
 ---
-<p> <img src ="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D" />
+<p> <img src ="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D"height="100" />
+</p>
+<p> <img src ="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D"height="100" />
+</p>
+<p> <img src ="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D"height="100" />
 </p>
 
 <p align="center">
