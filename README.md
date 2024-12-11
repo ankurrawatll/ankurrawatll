@@ -59,14 +59,10 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 [![Ankur's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankurrawatll&theme=radical&hide_border=true)
 
 
-### 📈 Activity Graph
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ankurrawatll&theme=react-dark" />
-</p>
 
 ### 🌐 Connect With Me
 <p align="center">
-    <a href="https://linkedin.com/in/ankurrawat" target="_blank">
+    <a href="https://www.linkedin.com/in/ankur-rawat-a638761b3/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:ankurrawat@gmail.com" target="_blank">
@@ -89,12 +85,7 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 </p>
 
 ---
-<p> <img src ="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D"height="100" />
-</p>
-<p> <img src ="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D"height="100" />
-</p>
-<p> <img src ="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D"height="100" />
-</p>
+
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
