@@ -77,14 +77,12 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 - 🔭 Currently working on AI-driven solutions
 - 🌱 Constantly learning and exploring new technologies
 - 💬 Ask me about AI, Machine Learning, and Full-Stack Development
-- 📫 How to reach me: ankurrawat@gmail.com
+
 
 ### 🎨 Profile Views
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ankurrawatll&label=Profile%20views&color=0e75b6&style=flat" alt="ankurrawatll" /> 
 </p>
-
----
 
 
 <p align="center">
