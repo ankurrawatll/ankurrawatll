@@ -54,10 +54,10 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
     <img src="https://github-profile-trophy.vercel.app/?username=ankurrawatll&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-### 🔥 Streak Stats
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurrawatll&theme=tokyonight" alt="ankurrawatll" />
-</p>
+### 🔥 Stats
+
+[![Ankur's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankurrawatll&theme=radical&hide_border=true)
+
 
 ### 📈 Activity Graph
 <p align="center">
