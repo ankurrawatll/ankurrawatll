@@ -1,5 +1,7 @@
-I'll enhance the profile with more creative and visually appealing elements:
 
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 # 🌟 Hey There! I'm Ankur Rawat 👨‍💻🚀
 
 ## 📌 About Me
@@ -87,6 +89,6 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 ---
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
