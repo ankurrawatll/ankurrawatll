@@ -89,7 +89,7 @@ Transforming ideas into intelligent solutions, one algorithm at a time!
 </p>
 
 ---
-<p> <img src ="[https://www.cloudskillsboost.google/public_profiles/957d3416-42f2-4585-aff8-260777924f92/badges/11761959](https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D)" />
+<p> <img src ="https://cdn.qwiklabs.com/RiB%2FxJsrAucb%2FjJFO9cVLycyeO9qOV2CwldsWo%2FM0OE%3D" />
 </p>
 
 <p align="center">
